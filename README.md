@@ -1,7 +1,7 @@
 # SecureAdminPanel
 A secure PHP login system with Admin Panel and with protections against several common attacks
 
-This code is designed to copy and paste it and should already work as it is, but you can customize the Administration panel as you like and if you want you can also completely modify the graphics by applying common panels such as those provided by Creative Tim, both for free that for a fee, or others of your liking.
+This code is designed to copy and paste it and should already work as it is, but you can customize the Administration panel as you like and if you want you can also completely modify the graphics by applying common panels such as those provided by [Creative Tim](https://www.creative-tim.com/), both for free that for a fee, or others of your liking.
 The code is free to use and is provided as is in accordance with the GPL3 open source license. No assistance nor any compensation for damages can be provided for bug or other problems, much less on problems that apply only to your environment, however if you encounter a problem with the ACTUAL CODE you can report it to us on github, so that we can improve it.
 
 
