@@ -33,3 +33,7 @@ The code is free to use and is provided as is in accordance with the GPL3 open s
 
 ### Database Structure
 Database structure defined in [tables.sql](/sql/tables.sql) which you can use to generate the necessary tables within your database.
+
+### Thanks to
+- [Code-Break0](https://github.com/Code-Break0) for tutorials and code base 
+- [Creative Tim - Material Dashboard](https://github.com/creativetimofficial/material-dashboard) for graphics
